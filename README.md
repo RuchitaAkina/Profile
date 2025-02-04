@@ -35,8 +35,8 @@ I'm an enthusiastic **Machine Learning and Cloud Computing** learner, passionate
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![GitHub]()
+[![LinkedIn](https://www.linkedin.com/in/ruchita-akina-724603291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://github.com/RuchitaAkina)
 
 
 📧 **Email:** prathyu.ammu@gmail.com
